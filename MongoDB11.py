@@ -1,3 +1,4 @@
+# Изменение 2
 from pymongo import MongoClient
 from bson.objectid import ObjectId
 client = MongoClient("mongodb://127.0.0.1")
